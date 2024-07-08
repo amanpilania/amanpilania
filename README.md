@@ -6,9 +6,3 @@ I'm Aman Pilania, a senior currently pursuing my Bachelor of Technology(BTech) i
 - 🔭 My area of interest lies in Data Science, Machine Learning and Quantum Computing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amanpilania/) or [Gmail](mailto:amanpilaniaa@gmail.com) or [Twitter/X](https://x.com/amanpilania_)
 <br>
-
-## 📊GitHub Stats :
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanpilania)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpilania&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
