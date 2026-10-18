@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm Aman Pilania, a senior currently pursuing my Bachelor of Technology(BTech) in Computer Science with a specialization in Data Science at The NorthCap University, Gurugram, India.
+I'm Aman Pilania.
 - 🔭 My area of interest lies in Data Science, Machine Learning and Quantum Computing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amanpilania/) or [Gmail](mailto:amanpilaniaa@gmail.com) or [Twitter/X](https://x.com/amanpilania_)
 <br>
